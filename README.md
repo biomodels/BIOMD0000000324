@@ -1,3 +1,21 @@
+# BIOMD0000000324: Morris1981_MuscleFibre_Voltage
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000324.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000324.git@20140916`
+
+
+# Model Notes
 
 
 This is the full model (eq. 1 and 2) of the voltage oscillations in barnacle
@@ -34,4 +52,5 @@ applied current of 50 uA was assumed. The legend for the broken and the full
 line in this figure seems to be confounded in the article.
 
 Originally created by libAntimony v1.4 (using libSBML 3.4.1)
+
 
